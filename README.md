@@ -28,3 +28,7 @@
 
 می‌توانید تگ 
 [متا](https://github.com/persian-free-software-ideas/persian-free-software-ideas/labels/%D9%85%D8%AA%D8%A7) رو دنبال کنید.
+
+## مرام‌نامه
+
+می‌توانید مرام‌نامه ما را در صفحه [پیمان نحوه برخورد با مشارکت‌کنندگان](CODE_OF_CONDUCT.md) بخوانید.
