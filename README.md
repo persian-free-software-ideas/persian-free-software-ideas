@@ -4,7 +4,10 @@
 
 > تا حالا ایده نرم‌افزار آزادی داشتید که وقت پیاده سازیش رو نداشتید؟ اون رو به کس دیگه‌ای بسپارید!
 
-میتونید همه ایده‌ها رو تو [لیست ایده‌ها](https://github.com/persian-free-software-ideas/persian-free-software-ideas/issues) ببینید.
+.به دنبال اعمال محدودیت برای کاربران ایران توسط گیت‌هاب در مرداد ۹۸، این مخزن به گیت‌لب منتقل شده است
+نشانی مخزن در گیت‌لب: https://gitlab.com/persian-free-software-ideas/persian-free-software-ideas
+
+میتونید همه ایده‌ها رو تو [لیست ایده‌ها](https://gitlab.com/persian-free-software-ideas/persian-free-software-ideas/issues) ببینید.
 
 هم‌چنین می‌توانید پروژه‌ها را بر اساس تگ‌های زیر مرتب کنید:
 
